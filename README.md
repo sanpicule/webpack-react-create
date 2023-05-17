@@ -1,1 +1,1 @@
-# webpack-react-create
+# webpackとbabelを用いて0からReactの環境構築を行いました
